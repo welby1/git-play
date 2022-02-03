@@ -1,3 +1,4 @@
 a 1 2 3
 f-1 2222
 f-2 func b2(){return 'fdfsfsfgffs'}
+func hotfix(...args){return 0}
