@@ -1,1 +1,2 @@
 a 1 2 3
+f-2 func b2(){return 'fdfsfsfgffs'}
