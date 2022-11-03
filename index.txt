@@ -5,3 +5,4 @@ func add2(a,b,c){return a+b+c}
 function add(a,b){return a+b}
 
 v1
+v2

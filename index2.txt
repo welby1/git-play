@@ -4,3 +4,4 @@ f-2 func b2(){return 'fdfsfsfgffs'}
 func hotfix(...args){return 0}
 
 v1
+v2
