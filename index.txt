@@ -3,3 +3,5 @@ f-1 1111
 f-2 func b(){/*todo*/}
 func add2(a,b,c){return a+b+c}
 function add(a,b){return a+b}
+
+v1
